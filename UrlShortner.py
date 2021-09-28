@@ -40,3 +40,4 @@ Entry(root, textvariable=shorturl, width=35, font="verdana 12").place(x=7, y=270
 root.mainloop()
 
 #@sujaykummari
+#https://github.com/sujaykummari
